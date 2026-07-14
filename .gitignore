@@ -1,0 +1,18 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# Local scratch/export folders
+tmp/
+work/
+*.log
+
+# Keep generated pet deliverables tracked
+!pet.json
+!spritesheet.webp
+!contact-sheet.png
+!previews/*.gif
+!docs/*.json
