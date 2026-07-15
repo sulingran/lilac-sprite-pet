@@ -68,6 +68,7 @@ Copy-Item "$src\spritesheet.webp" "$dst\spritesheet.webp" -Force
 请不要将它表述为任何动画、游戏、公司或权利方的官方角色、官方素材或授权作品。
 
 本仓库不包含原始参考图，也不包含第三方平台截图。
+使用请star~ 多谢啦Ciallo~
 
 ## 授权
 
